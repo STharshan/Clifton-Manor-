@@ -65,7 +65,7 @@ export default function WelcomeSection() {
             data-aos-duration="1200"
           >
             <img
-              src="a5.jpg"
+              src="a7.webp"
               alt="Beechdale House entrance with elegant white columns and glass doors"
               className="object-cover w-full h-full"
               loading="lazy"
