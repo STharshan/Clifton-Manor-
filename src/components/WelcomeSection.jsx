@@ -15,7 +15,7 @@ export default function WelcomeSection() {
           {/* Left Content */}
           <div data-aos="fade-right" data-aos-duration="1000">
             <h2 className="font-serif text-3xl md:text-4xl font-bold text-[#3C2E2B] mb-6">
-              Welcome to Clifton Manor Care Complex
+              Welcome to Clifton Manor Residential Home
             </h2>
 
             <p
@@ -23,7 +23,8 @@ export default function WelcomeSection() {
               data-aos="fade-up"
               data-aos-delay="150"
             >
-             Our purpose-built care complex in Nottingham offers exceptional residential, nursing, and dementia care for up to 40 residents in a compassionate and supportive environment.
+             Our compassionate team provides personalised support in Older Person Care, Dementia, and Mental Health Conditions, ensuring comfort and peace of mind.
+Every resident is treated like family, with care plans designed to promote independence and happiness.
             </p>
 
             <p
@@ -31,7 +32,9 @@ export default function WelcomeSection() {
               data-aos="fade-up"
               data-aos-delay="300"
             >
-              With state-of-the-art facilities, beautifully landscaped gardens, and a team of experienced professionals, Clifton Manor Care Complex provides the perfect blend of expert care, comfort, and a true sense of home.
+ At Clifton Manor, we go beyond care — we create a true sense of home.
+From engaging daily activities to beautifully maintained surroundings, every detail supports wellbeing and joy.
+Discover a caring community where life is celebrated, and every day brings comfort, connection, and purpose.
             </p>
 
             <div
@@ -61,7 +64,7 @@ export default function WelcomeSection() {
             data-aos-duration="1200"
           >
             <img
-              src="a7.webp"
+              src="bg.png"
               alt="Beechdale House entrance with elegant white columns and glass doors"
               className="object-cover w-full h-full"
               loading="lazy"

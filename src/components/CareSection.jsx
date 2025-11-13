@@ -15,27 +15,27 @@ export default function CareTypesSection() {
 
  const careTypes = [
   {
-    title: "Primary Care Categories",
+    title: "Older Person Care",
     description:
-      "Older Person Care, Dementia, Mental Health Condition, Physical Disability, Visual / Hearing Impairment, Eating Disorders, Alcohol / Drug Misuse, Length of Stay, Permanent Care, Respite Care.",
+      "Older person care focuses on providing support and assistance to seniors, ensuring their physical, emotional, and social well-being. It emphasizes comfort, dignity, and independence, while addressing age-related health needs in a safe and nurturing environment.",
     href: "/care/primary-categories/",
   },
   {
-    title: "Care Types Provided",
+    title: "Dementia",
     description:
-      "Residential Care, Dementia Residential Care for a maximum of 47 Service Users, Dementia Care Types including Mild, Moderate and Advanced/Complex Dementia.",
+      "Dementia care is dedicated to individuals experiencing cognitive decline, memory loss, or confusion. It involves specialized support, structured routines, and compassionate guidance to help maintain quality of life and promote independence as much as possible.",
     href: "/care/types-provided/",
   },
   {
-    title: "Other Care Provided",
+    title: "Mental Health Condition",
     description:
-      "Specialist support for Parkinson's Disease, Stroke, Palliative / End of Life Care, Convalescent Care, Acquired Brain Injury (ABI) and Day Care.",
+      "Care for mental health conditions provides emotional, psychological, and practical support for individuals facing challenges such as anxiety, depression, or other disorders. It emphasizes understanding, therapy, and personalized strategies to enhance well-being and daily functioning.",
     href: "/care/other-provided/",
   },
   {
-    title: "Respite & Temporary Care",
+    title: "Physical Disability",
     description:
-      "Short-term accommodation and respite care options across all units, tailored to individual needs and duration requirements.",
+      "Physical disability care ensures accessibility, mobility assistance, and tailored support for individuals with physical impairments. It focuses on maximizing independence, safety, and participation in daily activities through adaptive solutions and compassionate care",
     href: "/care/respite-temporary/",
   },
 ];
