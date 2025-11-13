@@ -42,7 +42,7 @@ export default function FooterSection() {
                   <div className="font-bold text-xl md:text-2xl mb-1">Overall</div>
                   <div className="font-bold text-2xl md:text-3xl">Good</div>
                 </div>
-                <div className="hidden md:block absolute right-0 top-1/2 -translate-y-1/2 translate-x-full w-0 h-0 border-t-[25px] border-t-transparent border-l-[25px] border-l-[#3d7c4a] border-b-[25px] border-b-transparent" />
+                <div className="hidden md:block absolute right-0 top-1/2 -translate-y-1/2 translate-x-full w-0 h-0 border-t-25 border-t-transparent border-l-25 border-l-[#3d7c4a] border-b-25 border-b-transparent" />
               </div>
 
               {/* Right Ratings */}

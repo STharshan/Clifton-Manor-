@@ -23,9 +23,7 @@ export default function WelcomeSection() {
               data-aos="fade-up"
               data-aos-delay="150"
             >
-              Our purpose-built care home in Nottingham provides exceptional
-              residential and nursing care for up to 40 residents in a warm,
-              welcoming environment.
+             Our purpose-built care complex in Nottingham offers exceptional residential, nursing, and dementia care for up to 40 residents in a compassionate and supportive environment.
             </p>
 
             <p
@@ -33,9 +31,7 @@ export default function WelcomeSection() {
               data-aos="fade-up"
               data-aos-delay="300"
             >
-              With modern facilities, beautiful gardens, and a dedicated team of
-              professionals, Beechdale House offers the perfect balance of
-              clinical excellence and homely comfort.
+              With state-of-the-art facilities, beautifully landscaped gardens, and a team of experienced professionals, Clifton Manor Care Complex provides the perfect blend of expert care, comfort, and a true sense of home.
             </p>
 
             <div
